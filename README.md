@@ -1,5 +1,4 @@
 # HBC
-WEBDEVELOPMENT
-HTML
-CSS
-JAVASCREPT
+index.html
+style.css
+index.js
